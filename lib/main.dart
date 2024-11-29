@@ -4,20 +4,6 @@ void main() {
   runApp(const MyApp());
 }
 
-//1branch add
-//main add
-//main add2
-//main add3
-//main add4
-//main add5
-//main add6
-
-//branch add1
-//branch add2
-//branch add3
-
-//3333 add1
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
